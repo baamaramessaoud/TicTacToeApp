@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">لعبة تيك تاك تو</string>
+    <string name="Turn">دورك</string>
+    <string name="start">إيدأ</string>
+    <string name="name">الإسم</string>
+    <string name="first_player">اللاعب الأول</string>
+    <string name="second_player">اللاعب الثاني</string>
+    <string name="info">من فضلك أذخل أسماء اللاعبين</string>
+    <string name="The_winner_is">الفائز هو</string>
+    <string name="Play_With_Phone">إلعب مع الهاتف </string>
+    <string name="Play_With_Auther_Player">إلعب مع صديق </string>
+    <string name="phone"> الهاتف </string>
+</resources>
